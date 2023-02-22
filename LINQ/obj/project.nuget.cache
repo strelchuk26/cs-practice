@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YM18c8kpznwRkzAKBSLD1jbXGnYjB7AZ/G59DOq0zio+bj38RIocKuk8oHmm+vNe3H5x7EMWNKqmo735tZaFPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\source\\repos\\WinForm\\LINQ\\LINQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
