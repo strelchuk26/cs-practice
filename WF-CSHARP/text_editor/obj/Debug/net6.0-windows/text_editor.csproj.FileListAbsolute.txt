@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\WinForm\text_editor\obj\Debug\net6.0-windows\text_editor.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\WinForm\text_editor\obj\Debug\net6.0-windows\text_editor.Form1.resources
+C:\Users\LENOVO\source\repos\WinForm\text_editor\obj\Debug\net6.0-windows\text_editor.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\WinForm\text_editor\obj\Debug\net6.0-windows\text_editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\WinForm\text_editor\obj\Debug\net6.0-windows\text_editor.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\WinForm\text_editor\obj\Debug\net6.0-windows\text_editor.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\WinForm\text_editor\obj\Debug\net6.0-windows\text_editor.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\WinForm\text_editor\bin\Debug\net6.0-windows\text_editor.exe
+C:\Users\LENOVO\source\repos\WinForm\text_editor\bin\Debug\net6.0-windows\text_editor.deps.json
+C:\Users\LENOVO\source\repos\WinForm\text_editor\bin\Debug\net6.0-windows\text_editor.runtimeconfig.json
+C:\Users\LENOVO\source\repos\WinForm\text_editor\bin\Debug\net6.0-windows\text_editor.dll
+C:\Users\LENOVO\source\repos\WinForm\text_editor\bin\Debug\net6.0-windows\text_editor.pdb
+C:\Users\LENOVO\source\repos\WinForm\text_editor\obj\Debug\net6.0-windows\text_editor.dll
+C:\Users\LENOVO\source\repos\WinForm\text_editor\obj\Debug\net6.0-windows\refint\text_editor.dll
+C:\Users\LENOVO\source\repos\WinForm\text_editor\obj\Debug\net6.0-windows\text_editor.pdb
+C:\Users\LENOVO\source\repos\WinForm\text_editor\obj\Debug\net6.0-windows\text_editor.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\WinForm\text_editor\obj\Debug\net6.0-windows\ref\text_editor.dll

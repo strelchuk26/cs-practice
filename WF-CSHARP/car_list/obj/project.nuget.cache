@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mx+pX9XSyluVBPWfBi1ypOz9CeBbyKGA58kcDCFy0ZCY8neycZDeHc/URKYv2M6lnHRFuyBOv416WINYtA5Thw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\Documents\\GitHub\\WF-CSHARP\\car_list\\car_list.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

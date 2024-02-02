@@ -1,0 +1,26 @@
+﻿@using DataAccess.Entities;
+@using Microsoft.AspNetCore.Identity
+
+@inject SignInManager<User> SignInManager
+@inject UserManager<User> UserManager
+
+@if (SignInManager.IsSignedIn(User))
+{
+    <li class="nav-item">
+        <a class="nav-link text-light" asp-controller="Orders" asp-action="Index">Мої замовлення</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link text-light" id="login" asp-controller="Adverts" asp-action="MyAdverts">Мій профіль</a>
+    </li>
+    <li class="nav-item add-advert">
+        <button type="button" class="btn btn-light">
+            <a class="nav-link text-dark p-1" asp-controller="Adverts" asp-action="Create">Додати оголошення</a>
+        </button>
+    </li>
+}
+else
+{
+    <li class="nav-item">
+        <a class="nav-link text-light" id="login" asp-area="Identity" asp-page="/Account/Login">Увійти</a>
+    </li>
+}

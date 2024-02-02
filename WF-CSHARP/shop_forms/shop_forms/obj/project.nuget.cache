@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "a41V/WV6zyFW6RKGr/PlKS8JG3yDs124QLJV5785TkWL7SuKRfKbF/0vnbzM+bPlyhhYDk291y3BMFWoC9/luA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\Documents\\GitHub\\WF-CSHARP\\shop_forms\\shop_forms\\shop_forms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

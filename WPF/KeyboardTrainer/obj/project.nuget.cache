@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EZD65PbTVyQs1j1cgtJDUwDE9kIufZW4VrTI+7tengdjMVftRfyfggXBHwsyKiQkeKawefUkna9EG1wAd2wtDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bogda\\OneDrive\\Документы\\GitHub\\WPF\\KeyboardTrainer\\KeyboardTrainer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bogda\\.nuget\\packages\\markov\\2.0.0\\markov.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

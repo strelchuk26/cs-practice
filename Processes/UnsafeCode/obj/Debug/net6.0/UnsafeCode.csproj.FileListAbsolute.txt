@@ -1,0 +1,15 @@
+C:\Users\bogda\OneDrive\Документы\GitHub\Processes\UnsafeCode\bin\Debug\net6.0\UnsafeCode.exe
+C:\Users\bogda\OneDrive\Документы\GitHub\Processes\UnsafeCode\bin\Debug\net6.0\UnsafeCode.deps.json
+C:\Users\bogda\OneDrive\Документы\GitHub\Processes\UnsafeCode\bin\Debug\net6.0\UnsafeCode.runtimeconfig.json
+C:\Users\bogda\OneDrive\Документы\GitHub\Processes\UnsafeCode\bin\Debug\net6.0\UnsafeCode.dll
+C:\Users\bogda\OneDrive\Документы\GitHub\Processes\UnsafeCode\bin\Debug\net6.0\UnsafeCode.pdb
+C:\Users\bogda\OneDrive\Документы\GitHub\Processes\UnsafeCode\obj\Debug\net6.0\UnsafeCode.csproj.AssemblyReference.cache
+C:\Users\bogda\OneDrive\Документы\GitHub\Processes\UnsafeCode\obj\Debug\net6.0\UnsafeCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\OneDrive\Документы\GitHub\Processes\UnsafeCode\obj\Debug\net6.0\UnsafeCode.AssemblyInfoInputs.cache
+C:\Users\bogda\OneDrive\Документы\GitHub\Processes\UnsafeCode\obj\Debug\net6.0\UnsafeCode.AssemblyInfo.cs
+C:\Users\bogda\OneDrive\Документы\GitHub\Processes\UnsafeCode\obj\Debug\net6.0\UnsafeCode.csproj.CoreCompileInputs.cache
+C:\Users\bogda\OneDrive\Документы\GitHub\Processes\UnsafeCode\obj\Debug\net6.0\UnsafeCode.dll
+C:\Users\bogda\OneDrive\Документы\GitHub\Processes\UnsafeCode\obj\Debug\net6.0\refint\UnsafeCode.dll
+C:\Users\bogda\OneDrive\Документы\GitHub\Processes\UnsafeCode\obj\Debug\net6.0\UnsafeCode.pdb
+C:\Users\bogda\OneDrive\Документы\GitHub\Processes\UnsafeCode\obj\Debug\net6.0\UnsafeCode.genruntimeconfig.cache
+C:\Users\bogda\OneDrive\Документы\GitHub\Processes\UnsafeCode\obj\Debug\net6.0\ref\UnsafeCode.dll

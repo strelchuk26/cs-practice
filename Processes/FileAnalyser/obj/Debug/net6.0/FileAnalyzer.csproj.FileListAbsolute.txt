@@ -1,0 +1,5 @@
+C:\Users\bogda\source\repos\FileAnalyzer\obj\Debug\net6.0\FileAnalyzer.csproj.AssemblyReference.cache
+C:\Users\bogda\source\repos\FileAnalyzer\obj\Debug\net6.0\FileAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\source\repos\FileAnalyzer\obj\Debug\net6.0\FileAnalyzer.AssemblyInfoInputs.cache
+C:\Users\bogda\source\repos\FileAnalyzer\obj\Debug\net6.0\FileAnalyzer.AssemblyInfo.cs
+C:\Users\bogda\source\repos\FileAnalyzer\obj\Debug\net6.0\FileAnalyzer.csproj.CoreCompileInputs.cache

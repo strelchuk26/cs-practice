@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "fEyNwg4t46JBeTmcHyvgVzrePJvqhOV4MPgc6/PNIy/58xC6wTO8bVDxVK9/5nrWsMpcsN+6pAd0F+g2rRZ6Gw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\bogda\\OneDrive\\Документы\\GitHub\\WPF\\TCP-ChatRoom\\Server\\Server.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\bogda\\OneDrive\\Документы\\GitHub\\WPF\\ClassLibrary\\ClassLibrary.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\bogda\\OneDrive\\Документы\\GitHub\\WPF\\ClassLibrary\\ClassLibrary.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

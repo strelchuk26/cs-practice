@@ -1,0 +1,17 @@
+C:\Users\LENOVO\Documents\GitHub\WF-CSHARP\аля_нотепад\obj\Debug\net6.0-windows\аля_нотепад.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\GitHub\WF-CSHARP\аля_нотепад\obj\Debug\net6.0-windows\аля_нотепад.Form1.resources
+C:\Users\LENOVO\Documents\GitHub\WF-CSHARP\аля_нотепад\obj\Debug\net6.0-windows\аля_нотепад.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\GitHub\WF-CSHARP\аля_нотепад\obj\Debug\net6.0-windows\аля_нотепад.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\GitHub\WF-CSHARP\аля_нотепад\obj\Debug\net6.0-windows\аля_нотепад.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\GitHub\WF-CSHARP\аля_нотепад\obj\Debug\net6.0-windows\аля_нотепад.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\GitHub\WF-CSHARP\аля_нотепад\obj\Debug\net6.0-windows\аля_нотепад.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\GitHub\WF-CSHARP\аля_нотепад\bin\Debug\net6.0-windows\аля_нотепад.exe
+C:\Users\LENOVO\Documents\GitHub\WF-CSHARP\аля_нотепад\bin\Debug\net6.0-windows\аля_нотепад.deps.json
+C:\Users\LENOVO\Documents\GitHub\WF-CSHARP\аля_нотепад\bin\Debug\net6.0-windows\аля_нотепад.runtimeconfig.json
+C:\Users\LENOVO\Documents\GitHub\WF-CSHARP\аля_нотепад\bin\Debug\net6.0-windows\аля_нотепад.dll
+C:\Users\LENOVO\Documents\GitHub\WF-CSHARP\аля_нотепад\bin\Debug\net6.0-windows\аля_нотепад.pdb
+C:\Users\LENOVO\Documents\GitHub\WF-CSHARP\аля_нотепад\obj\Debug\net6.0-windows\аля_нотепад.dll
+C:\Users\LENOVO\Documents\GitHub\WF-CSHARP\аля_нотепад\obj\Debug\net6.0-windows\refint\аля_нотепад.dll
+C:\Users\LENOVO\Documents\GitHub\WF-CSHARP\аля_нотепад\obj\Debug\net6.0-windows\аля_нотепад.pdb
+C:\Users\LENOVO\Documents\GitHub\WF-CSHARP\аля_нотепад\obj\Debug\net6.0-windows\аля_нотепад.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\GitHub\WF-CSHARP\аля_нотепад\obj\Debug\net6.0-windows\ref\аля_нотепад.dll

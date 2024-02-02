@@ -1,0 +1,17 @@
+C:\Users\bogda\source\repos\Windows-Forms-SPD115\12_graphics\bin\Debug\net6.0-windows\12_graphics.exe
+C:\Users\bogda\source\repos\Windows-Forms-SPD115\12_graphics\bin\Debug\net6.0-windows\12_graphics.deps.json
+C:\Users\bogda\source\repos\Windows-Forms-SPD115\12_graphics\bin\Debug\net6.0-windows\12_graphics.runtimeconfig.json
+C:\Users\bogda\source\repos\Windows-Forms-SPD115\12_graphics\bin\Debug\net6.0-windows\12_graphics.dll
+C:\Users\bogda\source\repos\Windows-Forms-SPD115\12_graphics\bin\Debug\net6.0-windows\12_graphics.pdb
+C:\Users\bogda\source\repos\Windows-Forms-SPD115\12_graphics\obj\Debug\net6.0-windows\12_graphics.csproj.AssemblyReference.cache
+C:\Users\bogda\source\repos\Windows-Forms-SPD115\12_graphics\obj\Debug\net6.0-windows\_12_graphics.Form1.resources
+C:\Users\bogda\source\repos\Windows-Forms-SPD115\12_graphics\obj\Debug\net6.0-windows\12_graphics.csproj.GenerateResource.cache
+C:\Users\bogda\source\repos\Windows-Forms-SPD115\12_graphics\obj\Debug\net6.0-windows\12_graphics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\source\repos\Windows-Forms-SPD115\12_graphics\obj\Debug\net6.0-windows\12_graphics.AssemblyInfoInputs.cache
+C:\Users\bogda\source\repos\Windows-Forms-SPD115\12_graphics\obj\Debug\net6.0-windows\12_graphics.AssemblyInfo.cs
+C:\Users\bogda\source\repos\Windows-Forms-SPD115\12_graphics\obj\Debug\net6.0-windows\12_graphics.csproj.CoreCompileInputs.cache
+C:\Users\bogda\source\repos\Windows-Forms-SPD115\12_graphics\obj\Debug\net6.0-windows\12_graphics.dll
+C:\Users\bogda\source\repos\Windows-Forms-SPD115\12_graphics\obj\Debug\net6.0-windows\refint\12_graphics.dll
+C:\Users\bogda\source\repos\Windows-Forms-SPD115\12_graphics\obj\Debug\net6.0-windows\12_graphics.pdb
+C:\Users\bogda\source\repos\Windows-Forms-SPD115\12_graphics\obj\Debug\net6.0-windows\12_graphics.genruntimeconfig.cache
+C:\Users\bogda\source\repos\Windows-Forms-SPD115\12_graphics\obj\Debug\net6.0-windows\ref\12_graphics.dll
